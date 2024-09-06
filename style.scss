@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  color: hsl(0, 0%, 10%);
+  font-size: 14px;
+}
+
+.input-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+input {
+  max-width: 150px !important;
+}
+
+.input-group {
+  max-width: 150px !important;
+}
+
+.flex {
+  display: flex;
+}
+
+.mini-input {
+  width: 45px;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.mini-input-2 {
+  max-width: 50px !important;
+}
